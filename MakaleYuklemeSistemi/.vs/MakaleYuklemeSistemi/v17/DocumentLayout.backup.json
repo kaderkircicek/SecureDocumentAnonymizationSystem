@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab2proje1\\MakaleYuklemeSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96A470B7-57F0-4495-AF1F-D60813DFFAC4}|MakaleYuklemeSistemi.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\yazlab2proje1\\makaleyuklemesistemi\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{96A470B7-57F0-4495-AF1F-D60813DFFAC4}|MakaleYuklemeSistemi.csproj|solutionrelative:anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A470B7-57F0-4495-AF1F-D60813DFFAC4}|MakaleYuklemeSistemi.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\yazlab2proje1\\makaleyuklemesistemi\\scripts\\pdf_decrypted.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{96A470B7-57F0-4495-AF1F-D60813DFFAC4}|MakaleYuklemeSistemi.csproj|solutionrelative:scripts\\pdf_decrypted.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A470B7-57F0-4495-AF1F-D60813DFFAC4}|MakaleYuklemeSistemi.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\yazlab2proje1\\makaleyuklemesistemi\\scripts\\pdf_encrypt.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{96A470B7-57F0-4495-AF1F-D60813DFFAC4}|MakaleYuklemeSistemi.csproj|solutionrelative:scripts\\pdf_encrypt.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 463,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pdf_decrypted.py",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab2proje1\\MakaleYuklemeSistemi\\Scripts\\pdf_decrypted.py",
+              "RelativeDocumentMoniker": "Scripts\\pdf_decrypted.py",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab2proje1\\MakaleYuklemeSistemi\\Scripts\\pdf_decrypted.py",
+              "RelativeToolTip": "Scripts\\pdf_decrypted.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-21T15:46:09.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pdf_encrypt.py",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab2proje1\\MakaleYuklemeSistemi\\Scripts\\pdf_encrypt.py",
+              "RelativeDocumentMoniker": "Scripts\\pdf_encrypt.py",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab2proje1\\MakaleYuklemeSistemi\\Scripts\\pdf_encrypt.py",
+              "RelativeToolTip": "Scripts\\pdf_encrypt.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-21T15:45:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaSayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab2proje1\\MakaleYuklemeSistemi\\AnaSayfa.aspx",
+              "RelativeDocumentMoniker": "AnaSayfa.aspx",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\yazlab2proje1\\MakaleYuklemeSistemi\\AnaSayfa.aspx",
+              "RelativeToolTip": "AnaSayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-21T15:22:36.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
